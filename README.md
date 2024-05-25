@@ -50,7 +50,7 @@ You can click the Preview link to take a look at your changes.
 - 👨‍💻 All of my projects are available at [https://github.com/elmurod-developer/elmurod](https://github.com/elmurod-developer/elmurod)
 
 - 📫 How to reach me **elmurod195195@gmail.com**
-- 📫 telegram me **elmurod_sirojidinov** 
+- 📫 telegram me **@elmurod_sirojidinov** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
