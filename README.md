@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 
 ## Hey! 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Assalomu+alaykum!;My+name+is+Islombek+;Back-end+web+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Assalomu+alaykum!;My+name+is+elmurod+;Back-end+web+developer)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=yellow&random=false&width=435&lines=MY+SKILLS+%3A+Python++Django++DRF+(API)++;SQL++Git++Github+Telegram+Bot)](https://git.io/typing-svg)
 - <hr/>
