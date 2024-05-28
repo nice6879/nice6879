@@ -1,5 +1,5 @@
 - 👋 Hi, I’m elmurod_sirojidinov
-- 👀 I’m interested in python
+- 👀 I’m interested in python language
 - 🌱 I’m currently learning computer programming the language of python 
 - 💞️ I’m looking to collaborate on developing
 - 📫 if you want to contact me here is my gmail account elmurod195195@gmail.com
